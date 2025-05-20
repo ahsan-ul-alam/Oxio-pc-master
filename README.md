@@ -7,7 +7,7 @@ The purpose of this project is to practice HTML, CSS, and JavaScript by recreati
 
 ## 📷 Preview
 
-![Preview Screenshot](./images/preview.jpg](https://i.ibb.co/FqbHX2dk/pcmaster.png) 
+![PC Master Preview](https://i.ibb.co/FqbHX2dk/pcmaster.png)
 
 
 ---
